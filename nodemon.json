@@ -1,0 +1,10 @@
+{
+    "env": {
+        "DB_USER": "admin",
+        "DB_PASSWORD": "admin",
+        "DB_NAME": "mern",
+        "GOOGLE_API_KEY": "AIzaSyDphBfWoAqMjdVVBEUcn5LjeySerm17IQU",
+        "JWT_KEY": "supercrecret_dont_share"
+
+    }
+}
